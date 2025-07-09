@@ -120,7 +120,7 @@
 มาดูภาพรวมกิจกรรมของผมบน GitHub กันครับ!
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&theme=radical&include_all_commits=true&count_private=true&line_height=25&hide_border=true" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=[PlueAi]&show_icons=true&theme=radical&include_all_commits=true&count_private=true&line_height=25&hide_border=true" alt="GitHub Stats" width="49%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[PlueAi]&layout=compact&theme=radical&hide_title=false&card_width=49%&hide_border=true" alt="Top Languages" width="49%" />
 </p>
 <p align="center">
